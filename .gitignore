@@ -1,0 +1,12 @@
+# Secrets
+.env
+
+# Cached FAISS indexes and transcript chunks
+.cache/
+.cache_test/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
